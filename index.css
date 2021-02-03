@@ -70,3 +70,11 @@
     -webkit-text-fill-color: transparent;
     font-size: 20px;
 }
+
+#explained{
+    grid-column: 2 / span 10;   
+    background: -webkit-linear-gradient(rgb(255, 255, 255), rgb(204, 189, 189));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 20px;
+}
