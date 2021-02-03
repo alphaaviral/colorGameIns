@@ -25,7 +25,7 @@
     grid-column: 1 / span 12;
     align-items: center;
     justify-content: center;
-    background: -webkit-linear-gradient(rgb(252, 248, 248), rgb(172, 157, 157));
+    background: -webkit-linear-gradient(rgb(252, 248, 248), rgb(163, 147, 147));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -46,7 +46,7 @@
     grid-column: 2 / span 10;
     align-items: center;
     justify-content: center;
-    background: -webkit-linear-gradient(rgb(255, 254, 254), rgb(177, 160, 160));
+    background: -webkit-linear-gradient(rgb(255, 254, 254), rgb(202, 200, 200));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -60,7 +60,7 @@
     grid-column: 2 / span 10;
     align-items: center;
     justify-content: center;
-    background: -webkit-linear-gradient(rgb(255, 254, 254), rgb(177, 160, 160));
+    background: -webkit-linear-gradient(rgb(255, 254, 254), rgb(202, 200, 200));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -74,7 +74,7 @@
     grid-column: 2 / span 10;
     align-items: center;
     justify-content: center;
-    background: -webkit-linear-gradient(rgb(211, 198, 198), rgb(255, 255, 255));
+    background: -webkit-linear-gradient(rgb(255, 255, 255), rgb(202, 200, 200));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -88,7 +88,7 @@
     grid-column: 2 / span 10;
     align-items: center;
     justify-content: center;
-    background: -webkit-linear-gradient(rgb(255, 254, 254), rgb(177, 160, 160));
+    background: -webkit-linear-gradient(rgb(255, 254, 254), rgb(202, 200, 200));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -102,7 +102,7 @@
     grid-column: 2 / span 10;
     align-items: center;
     justify-content: center;
-    background: -webkit-linear-gradient(rgb(255, 254, 254), rgb(177, 160, 160));
+    background: -webkit-linear-gradient(rgb(255, 254, 254), rgb(202, 200, 200));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-family: Georgia, 'Times New Roman', Times, serif;
